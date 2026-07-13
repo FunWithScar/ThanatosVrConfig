@@ -1,0 +1,7 @@
+{
+  "rooms": [
+    { "name": "closedeacommunity1", "visibility": "public" },
+    { "name": "closedeacommunity2", "visibility": "disabled" },
+    { "name": "closedeacommunity3", "visibility": "whitelist", "whitelist": ["PLAYFAB_ID_1", "PLAYFAB_ID_2"] }
+  ]
+}
