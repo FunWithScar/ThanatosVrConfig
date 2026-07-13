@@ -1,7 +1,11 @@
 {
   "rooms": [
+    { "name": "developercom", "visibility": "whitelist", "whitelist": ["PLAYFAB_ID_2"] },
+    { "name": "testserver1", "visibility": "disabled" },
+    { "name": "testserver2", "visibility": "disabled" },
+    { "name": "testserver3", "visibility": "disabled" },
     { "name": "closedeacommunity1", "visibility": "public" },
-    { "name": "closedeacommunity2", "visibility": "disabled" },
-    { "name": "closedeacommunity3", "visibility": "whitelist", "whitelist": ["PLAYFAB_ID_1", "PLAYFAB_ID_2"] }
+    { "name": "closedeacommunity2", "visibility": "public" },
+    { "name": "closedeacommunity3", "visibility": "public" }
   ]
 }
