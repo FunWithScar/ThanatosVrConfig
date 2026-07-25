@@ -1,4 +1,24 @@
 {
+  "communityStaff": [
+    {
+      "community": "Closed Early Access Community",
+      "eventStaff": ["PLAYFAB_ID_A"],
+      "moderators": ["PLAYFAB_ID_B"],
+      "developers": ["PLAYFAB_ID_C"]
+    },
+    {
+      "community": "Experimental Community",
+      "eventStaff": [],
+      "moderators": [],
+      "developers": []
+    },
+    {
+      "community": "Developer Community",
+      "eventStaff": [],
+      "moderators": [],
+      "developers": ["PLAYFAB_ID_2"]
+    }
+  ],
   "rooms": [
     { "name": "developercom", "community": "Developer Community", "visibility": "whitelist", "whitelist": ["PLAYFAB_ID_2"] },
     { "name": "testserver1", "community": "Experimental Community", "visibility": "disabled" },
