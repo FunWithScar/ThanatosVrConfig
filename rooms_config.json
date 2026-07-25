@@ -1,11 +1,11 @@
 {
   "rooms": [
-    { "name": "developercom", "visibility": "whitelist", "whitelist": ["PLAYFAB_ID_2"] },
-    { "name": "testserver1", "visibility": "disabled" },
-    { "name": "testserver2", "visibility": "disabled" },
-    { "name": "testserver3", "visibility": "disabled" },
-    { "name": "closedeacommunity1", "visibility": "public" },
-    { "name": "closedeacommunity2", "visibility": "public" },
-    { "name": "closedeacommunity3", "visibility": "public" }
+    { "name": "developercom", "community": "Developer Community", "visibility": "whitelist", "whitelist": ["PLAYFAB_ID_2"] },
+    { "name": "testserver1", "community": "Experimental Community", "visibility": "disabled" },
+    { "name": "testserver2", "community": "Experimental Community", "visibility": "disabled" },
+    { "name": "testserver3", "community": "Experimental Community", "visibility": "disabled" },
+    { "name": "closedeacommunity1", "community": "Closed Early Access Community", "visibility": "public" },
+    { "name": "closedeacommunity2", "community": "Closed Early Access Community", "visibility": "public" },
+    { "name": "closedeacommunity3", "community": "Closed Early Access Community", "visibility": "public" }
   ]
 }
