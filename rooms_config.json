@@ -4,23 +4,23 @@
       "community": "Closed Early Access Community",
       "eventStaff": ["PLAYFAB_ID_A"],
       "moderators": ["PLAYFAB_ID_B"],
-      "developers": ["F95CA5F7126660EA"]
+      "developers": ["6E27ADC7B748CF3A"]
     },
     {
       "community": "Experimental Community",
       "eventStaff": [],
       "moderators": [],
-      "developers": ["F95CA5F7126660EA"]
+      "developers": ["6E27ADC7B748CF3A"]
     },
     {
       "community": "Developer Community",
       "eventStaff": [],
       "moderators": [],
-      "developers": ["F95CA5F7126660EA"]
+      "developers": ["6E27ADC7B748CF3A"]
     }
   ],
   "rooms": [
-    { "name": "developercom", "community": "Developer Community", "visibility": "whitelist", "whitelist": ["F95CA5F7126660EA"] },
+    { "name": "developercom", "community": "Developer Community", "visibility": "whitelist", "whitelist": ["6E27ADC7B748CF3A"] },
     { "name": "testserver1", "community": "Experimental Community", "visibility": "disabled" },
     { "name": "testserver2", "community": "Experimental Community", "visibility": "disabled" },
     { "name": "testserver3", "community": "Experimental Community", "visibility": "disabled" },
